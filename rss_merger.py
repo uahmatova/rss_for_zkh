@@ -19,7 +19,8 @@ VK_GROUPS = [
     'sfr.permskiykray',
     'rosreestr_59',
     'directpermkray',
-    'pk_59'
+    'pk_59',
+    'fond59ru'
 ]
 
 #VK_TOKEN = 'd0aba882d0aba882d0aba8829cd39c235edd0abd0aba882b82c14340f4c8b620425b030'
